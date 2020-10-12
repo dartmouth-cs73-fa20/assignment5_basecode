@@ -1,6 +1,6 @@
 # CS 73/273 Assignment Basecode
 
-This is the basecode of assignment 1 for Dartmouth's Fall 2020 offering of CS 73/273 - "Computational Aspects of Digital Photography".
+This is the basecode of assignment 5 for Dartmouth's Fall 2020 offering of CS 73/273 - "Computational Aspects of Digital Photography".
  
 See course [website](https://canvas.dartmouth.edu/courses/43075) for details.
 
